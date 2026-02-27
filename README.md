@@ -10,4 +10,4 @@ Most of my professional contributions are in private repositories at **Papaya Gl
 
 ![Papaya Global Contributions](https://github.com/milosz1092/milosz1092/blob/main/papayaglobal-contributions-2025.png?raw=true)
 
-Here I share only my private projects — you can explore them below ⬇️
+Here I share only my private projects — you can explore some of them below ⬇️ or see the complete list [here](https://github.com/milosz1092?tab=repositories).
